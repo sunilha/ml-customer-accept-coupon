@@ -6,6 +6,7 @@ to distinguish between customers who accepted a driving coupon versus those that
 
 ### Findings Summary
 After initial analysis of the data, performed data cleaning. Hand picked Bar and Coffe House coupon types and explored the data.
+Jupyter Notebook having code for all these can be found [here](willCustomerAcceptCoupon.ipynb).
 
 ### Bar Coupons
 1. People who visited bar less than 3 times a month i.e. Casual/Social drinkers are more likely to accept bar coupons
